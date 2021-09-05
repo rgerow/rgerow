@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rgerow    robert,  I am not a robot
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python to automate some repetitive tasks at work
-- 💞️ I’m looking to collaborate on open source in the future
+- 🌱 I’m currently studying python to automate repetitive tasks at my day job
+- 💞️ I’m looking to collaborate on an open source project in the future
 - 📫 How to reach me rgerow allLowerCase At GMa_il
 
 
